@@ -1,4 +1,4 @@
-# E-Cigarette-Use-and-Risk-of-Cardiovascular-Disease
+# E-Cigarette Use and Risk of Cardiovascular Disease
 This repo includes code required to replicate the results in the paper "E-Cigarette Use and Risk of Cardiovascular Disease: A Longitudinal Analysis of the PATH Study (2013–2019)". [Link to Manuscript](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.057369)
 Open access data can be accessed from the ICPSR by creating an account [here](https://www.icpsr.umich.edu/web/NAHDAP/studies/36498)
 
